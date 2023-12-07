@@ -19,8 +19,8 @@ body {
 #display {
     width: 93%;
     padding: 10px;
-    margin-bottom: 10px;
-    font-size: 18px;
+    margin-bottom: 15px;
+    font-size: 22px;
 }
 
 .buttons {
@@ -31,7 +31,7 @@ body {
 
 button {
     padding: 15px;
-    font-size: 18px;
+    font-size: 20px;
      border: dotted;
     border-radius:5px;
     cursor:pointer;
