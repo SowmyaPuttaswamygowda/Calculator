@@ -17,7 +17,7 @@ body {
 }
 
 #display {
-    width: 100%;
+    width: 93%;
     padding: 10px;
     margin-bottom: 10px;
     font-size: 18px;
@@ -30,10 +30,11 @@ body {
 }
 
 button {
-    width: 100%;
     padding: 15px;
     font-size: 18px;
-    cursor: pointer;
-    border: dotted;
-    background-color: #f0f0f0;
+     border: dotted;
+    border-radius:5px;
+    cursor:pointer;
 }
+
+    
