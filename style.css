@@ -21,11 +21,12 @@ body {
     padding: 10px;
     margin-bottom: 15px;
     font-size: 22px;
+    border:solid;
 }
 
 .buttons {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4,1fr);
     grid-gap: 10px;
 }
 
